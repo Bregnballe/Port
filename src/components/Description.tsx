@@ -2,7 +2,7 @@ import React from "react";
 import {
   DescriptionStyled,
   ParagraphStyled,
-  LinkStyled
+  LinkStyled,
 } from "./DescriptionStyled";
 
 export const Description = ({ project }) => {
