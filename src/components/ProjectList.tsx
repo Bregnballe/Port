@@ -2,14 +2,19 @@ import React from "react";
 import { ProjectCard } from "./ProjectCard";
 import { ProjectListStyled } from "./ProjectListStyled";
 
-export const ProjectList = ({ listdata }) => {
+import { ProjectListType } from "../data/ProjectListType";
+
+interface ProjectListProps {
+  projectList: ProjectListType;
+}
+
+export const ProjectList = ({ projectList }: ProjectListProps) => {
   window.scrollTo(0, 0);
   // scroll to top of page
 
-  const list = listdata.map((project, index) => {
+  const list = projectList.map((project) => {
     return (
       <ProjectCard
-        index={index}
         key={project.id}
         id={project.id}
         title={project.title}

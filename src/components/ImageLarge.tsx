@@ -4,10 +4,17 @@ import {
   ContainerStyled,
   FigureStyled,
   CaptionStyled,
-  ImageStyled
+  ImageStyled,
 } from "./ImageLargeStyled";
 
-export const ImageLarge = ({ card }) => {
+interface ImageLargeProps {
+  card: {
+    title: string;
+    image: string;
+  };
+}
+
+export const ImageLarge = ({ card }: ImageLargeProps) => {
   return (
     <ContainerStyled>
       <FigureStyled>

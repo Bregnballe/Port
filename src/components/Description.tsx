@@ -4,8 +4,13 @@ import {
   ParagraphStyled,
   LinkStyled,
 } from "./DescriptionStyled";
+import { IProject } from "../data/ProjectListType";
 
-export const Description = ({ project }) => {
+interface ProjectProps {
+  project: IProject;
+}
+
+export const Description = ({ project }: ProjectProps) => {
   return (
     <DescriptionStyled>
       <h3> {project.title} </h3>

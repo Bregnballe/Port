@@ -3,10 +3,23 @@ import {
   FigureStyled,
   ImageStyled,
   CaptionStyled,
-  LinkStyled
+  LinkStyled,
 } from "./ImageCardStyled";
 
-export const ImageCard = ({ projecturl, cardurl, title, image }) => {
+interface ImageCardProps {
+  projecturl: string;
+  cardurl: string;
+  id: number;
+  title: string;
+  image: string;
+}
+
+export const ImageCard = ({
+  projecturl,
+  cardurl,
+  title,
+  image,
+}: ImageCardProps) => {
   return (
     <li>
       <LinkStyled to={`/${projecturl}/${cardurl}`}>

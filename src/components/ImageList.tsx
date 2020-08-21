@@ -2,11 +2,16 @@ import React from "react";
 import { ImageCard } from "./ImageCard";
 import { ImageListStyled } from "./ImageListStyled";
 
-export const ImageList = ({ project }) => {
-  const imageList = project.content.map((card, index) => {
+import { IProject } from "../data/ProjectListType";
+
+interface ImageListProps {
+  project: IProject;
+}
+
+export const ImageList = ({ project }: ImageListProps) => {
+  const imageList = project.content.map((card) => {
     return (
       <ImageCard
-        index={index}
         key={card.id}
         id={card.id}
         title={card.title}

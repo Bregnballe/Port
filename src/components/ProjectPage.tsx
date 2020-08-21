@@ -5,8 +5,13 @@ import { ImageList } from "./ImageList";
 import { Description } from "./Description";
 import { ImagePlaceholder } from "./ImagePlaceholder";
 import { useParams } from "react-router-dom";
+import { ProjectListType } from "../data/ProjectListType";
 
-export const ProjectPage = ({ listdata }) => {
+interface ProjectListProps {
+  projectList: ProjectListType;
+}
+
+export const ProjectPage = ({ projectList }: ProjectListProps) => {
   const { projecturl, cardurl } = useParams();
 
   console.log(useParams());
@@ -14,11 +19,11 @@ export const ProjectPage = ({ listdata }) => {
   window.scrollTo(0, 0);
   //scroll to top of page
 
-  const project = listdata.find((project) => project.url === projecturl);
-  //find the project from the useparams url
+  const project = projectList.find((project) => project.url === projecturl);
+  //find the project from the useParams url
   if (project) {
     const card = project.content.find((card) => card.url === cardurl);
-    //find the card from the useparams url
+    //find the card from the useParams url
     if (card) {
       return (
         <div>
