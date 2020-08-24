@@ -1,12 +1,9 @@
-export default [
-  {
+export default [{
     id: 1,
     url: "Minimalistic-Vector-Animals",
     title: "Minimalistic Vector Animals",
-    description:
-      "Just a spare time project. I imagined designing one animal for each letter in the alphabet and then making a poster with all of them. Only got this far. Probably shouldn't have made two starting with the letter 'G'...",
-    content: [
-      {
+    description: "Just a spare time project. I imagined designing one animal for each letter in the alphabet and then making a poster with all of them. Only got this far. Probably shouldn't have made two starting with the letter 'G'...",
+    content: [{
         id: 1,
         url: "Flamingo",
         title: "Flamingo",
@@ -42,10 +39,8 @@ export default [
     id: 2,
     url: "MilkyWay-Logo",
     title: "MilkyWay Logo",
-    description:
-      "Milkyway is a browser that makes it possible to do horisontal searches. Users can search in the app and then select from what source they want to see results. I was contacted to take part in the project by designing the user interface, app icon and logo.",
-    content: [
-      {
+    description: "Milkyway is a browser that makes it possible to do horisontal searches. Users can search in the app and then select from what source they want to see results. I was contacted to take part in the project by designing the user interface, app icon and logo.",
+    content: [{
         id: 1,
         url: "MilkyWay-Logomark",
         title: "MilkyWay logomark",
@@ -81,10 +76,8 @@ export default [
     id: 3,
     url: "Color-Icons",
     title: "School Themed Color Icons",
-    description:
-      "Even though the company I work at has students from age 5 and up as a part of their target group, for a long time we primarily used monochrome icons. I wanted to show how colored icons could bring life to our UI and better convey one part of our identity: Being playful.",
-    content: [
-      {
+    description: "Even though the company I work at has students from age 5 and up as a part of their target group, for a long time we primarily used monochrome icons. I wanted to show how colored icons could bring life to our UI and better convey one part of our identity: Being playful.",
+    content: [{
         id: 1,
         url: "Color-Icons-1",
         title: "Color Icons",
@@ -102,10 +95,8 @@ export default [
     id: 4,
     url: "Lagkagehuset",
     title: "Lagkagehuset",
-    description:
-      "This was the finishing project for my graphic design course in university. We had to come up with a new visual identity for the bakery 'Lagkagehuset' (Layered cake house). I tried designing an identity, that communicated 'High quality', 'Craftmanship' and the rich heritage of baking. ",
-    content: [
-      {
+    description: "This was the finishing project for my graphic design course in university. We had to come up with a new visual identity for the bakery 'Lagkagehuset' (Layered cake house). I tried designing an identity, that communicated 'High quality', 'Craftmanship' and the rich heritage of baking. ",
+    content: [{
         id: 1,
         url: "Lagkagehuset-Logo",
         title: "Lagkagehuset logo",
@@ -121,8 +112,7 @@ export default [
         id: 3,
         url: "Bread-Poster",
         title: "Bread poster",
-        image:
-          "http://bregnballe.net/portfolio/lagkagehuset/lkhreklamelarge.jpg"
+        image: "http://bregnballe.net/portfolio/lagkagehuset/lkhreklamelarge.jpg"
       },
       {
         id: 4,
@@ -134,15 +124,13 @@ export default [
         id: 5,
         url: "Website-Product-Line-Cake",
         title: "Website: Product line - cake ",
-        image:
-          "http://bregnballe.net/portfolio/lagkagehuset/lkhsortimentlarge.jpg"
+        image: "http://bregnballe.net/portfolio/lagkagehuset/lkhsortimentlarge.jpg"
       },
       {
         id: 6,
         url: "Website-Front-Page",
         title: "Website: Front page ",
-        image:
-          "http://bregnballe.net/portfolio/lagkagehuset/lkhforsidelarge.jpg"
+        image: "http://bregnballe.net/portfolio/lagkagehuset/lkhforsidelarge.jpg"
       }
     ]
   },
@@ -150,10 +138,8 @@ export default [
     id: 5,
     url: "Working-Copy",
     title: "Working Copy",
-    description:
-      "Working Copy was one of the first version control apps on iOS. I designed the original app icon as well as some UI for the app itself. The idea was that the user would be able to zoom in on each commit to get extra detail.",
-    content: [
-      {
+    description: "Working Copy was one of the first version control apps on iOS. I designed the original app icon as well as some UI for the app itself. The idea was that the user would be able to zoom in on each commit to get extra detail.",
+    content: [{
         id: 1,
         url: "Working-Copy",
         title: "Working Copy",
@@ -183,10 +169,8 @@ export default [
     id: 6,
     url: "Team-Tesla",
     title: "Team Tesla",
-    description:
-      "The agile development team (Team Tesla) I am a part of wanted a logo to spark some additional team spirit. We wanted something that showed to the rest of the company that we were 'Fun', 'Aproachable' and 'Professional'. We did some initial sketches together and I took the ideas further and designed these logos and marks.",
-    content: [
-      {
+    description: "The agile development team (Team Tesla) I am a part of wanted a logo to spark some additional team spirit. We wanted something that showed to the rest of the company that we were 'Fun', 'Aproachable' and 'Professional'. We did some initial sketches together and I took the ideas further and designed these logos and marks.",
+    content: [{
         id: 1,
         url: "Nicola-Tesla-Mascot-Logo",
         title: "Nicola Tesla Mascot Logo",
@@ -240,10 +224,8 @@ export default [
     id: 7,
     url: "Lean-UX",
     title: "Lean UX",
-    description:
-      "The principles from the book 'Lean UX' really make a lot of sense to me. I wanted to implement them in the development team's daily processes, so what better way than to use one of aforementioned principles to do just that. I externalised my work by making a poster of the lean ux principles and hanging it in our office, making it visible to us all and giving us a shared understanding to work from. ",
-    content: [
-      {
+    description: "The principles from the book 'Lean UX' really make a lot of sense to me. I wanted to implement them in the development team's daily processes, so what better way than to use one of aforementioned principles to do just that. I externalised my work by making a poster of the lean ux principles and hanging it in our office, making it visible to us all and giving us a shared understanding to work from. ",
+    content: [{
         id: 1,
         url: "Lean-UX",
         title: "Lean UX",
@@ -273,10 +255,8 @@ export default [
     id: 8,
     url: "Library",
     title: "Library",
-    description:
-      "After waiting for a long, long time, I finally got to redesign this library containing learning material. I wanted to create something light that did not overwhelm the users. This was the final result based on the idea that the users should be able to change between a list and a gallery view. It would give users some autonomy and likely meet both teachers' and students' needs.",
-    content: [
-      {
+    description: "After waiting for a long, long time, I finally got to redesign this library containing learning material. I wanted to create something light that did not overwhelm the users. This was the final result based on the idea that the users should be able to change between a list and a gallery view. It would give users some autonomy and likely meet both teachers' and students' needs.",
+    content: [{
         id: 1,
         url: "Library-List-View",
         title: "Library: List view",
@@ -300,10 +280,8 @@ export default [
     id: 9,
     url: "Sidebar",
     title: "Sidebar",
-    description:
-      "I redesigned this sidebar that contains a list of what the students have to do when going through a course. The original sidebar had problems with its information hierarchy, contrast ratio, consistency and text alignment. The scope of the project was limited to simple UI changes and so I was not allowed to reduce the depth of the navigation from the 3 levels shown here.",
-    content: [
-      {
+    description: "I redesigned this sidebar that contains a list of what the students have to do when going through a course. The original sidebar had problems with its information hierarchy, contrast ratio, consistency and text alignment. The scope of the project was limited to simple UI changes and so I was not allowed to reduce the depth of the navigation from the 3 levels shown here.",
+    content: [{
         id: 1,
         url: "Sidebar",
         title: "Sidebar",
@@ -327,10 +305,8 @@ export default [
     id: 10,
     url: "3D-Teddy-Bear",
     title: "3D Teddy Bear",
-    description:
-      "One of my favourite courses in university was the 3D course. We were trained in using a 3D animation program of our choice and I chose Cinema 4D. For the final project I made this 3D model of a Teddy bear. ",
-    content: [
-      {
+    description: "One of my favourite courses in university was the 3D course. We were trained in using a 3D animation program of our choice and I chose Cinema 4D. For the final project I made this 3D model of a Teddy bear. ",
+    content: [{
         id: 1,
         url: "3D-Teddy-Bear",
         title: "3D Teddy Bear",
@@ -378,10 +354,8 @@ export default [
     id: 11,
     url: "School-Activity-Icons",
     title: "School Activity Icons",
-    description:
-      "I was asked to make icons for the school subjects 'Sports', 'Digital Literacy', 'Arts', 'Craftmanship & Design', 'Food Tech' and 'Music'. This is part of the result.  ",
-    content: [
-      {
+    description: "I was asked to make icons for the school subjects 'Sports', 'Digital Literacy', 'Arts', 'Craftmanship & Design', 'Food Tech' and 'Music'. This is part of the result.  ",
+    content: [{
         id: 1,
         url: "Activity-Icons",
         title: "Activity Icons",
@@ -389,10 +363,9 @@ export default [
       },
       {
         id: 2,
-        url: "Activity-Icons",
+        url: "Icon-Grid",
         title: "24x24px icon grid",
-        image:
-          "http://bregnballe.net/portfolio/activityicons/activityicongrid.png"
+        image: "http://bregnballe.net/portfolio/activityicons/activityicongrid.png"
       }
     ]
   },
@@ -400,10 +373,8 @@ export default [
     id: 12,
     url: "Clio-Design",
     title: "Clio Design",
-    description:
-      "Before leaving Clio, we were in the process of rethinking the entire platform. Here is a taste of the designs I was working on. My vision was a cohesive website where navigation and design would be consistent regardless of where the user was browsing. In addition an always accesible global menu and search bar was meant to help users easily find what they needed.",
-    content: [
-      {
+    description: "Before leaving Clio, we were in the process of rethinking the entire platform. Here is a taste of the designs I was working on. My vision was a cohesive website where navigation and design would be consistent regardless of where the user was browsing. In addition an always accesible global menu and search bar was meant to help users easily find what they needed.",
+    content: [{
         id: 1,
         url: "Desktop-Overview",
         title: "Desktop overview of materials for the subject 'dansk'",
@@ -446,10 +417,8 @@ export default [
     id: 13,
     url: "Simple-Feast",
     title: "Simple Feast",
-    description:
-      "Simple Feast makes organic, plant based dinners ready to serve in just 10 minutes. I applied for a job at Simple Feast and in the process made a redesign of their current website. I aimed to simplify the visual communication and make the entire design less 'boxy'.",
-    content: [
-      {
+    description: "Simple Feast makes organic, plant based dinners ready to serve in just 10 minutes. I applied for a job at Simple Feast and in the process made a redesign of their current website. I aimed to simplify the visual communication and make the entire design less 'boxy'.",
+    content: [{
         id: 1,
         url: "Desktop-View",
         title: "Desktop view of the website above the fold",
@@ -459,23 +428,19 @@ export default [
         id: 2,
         url: "iPad-Pro-GIF",
         title: "Scrolling through the website on an iPad Pro",
-        image:
-          "http://bregnballe.net/portfolio/simplefeast/simplefeastipadpro.gif"
+        image: "http://bregnballe.net/portfolio/simplefeast/simplefeastipadpro.gif"
       },
       {
         id: 3,
         url: "iPhone-GIF",
         title: "Scrolling through the website on an iPhone",
-        image:
-          "http://bregnballe.net/portfolio/simplefeast/simplefeastmobile.gif"
+        image: "http://bregnballe.net/portfolio/simplefeast/simplefeastmobile.gif"
       },
       {
         id: 4,
         url: "Original-Design",
-        title:
-          "Desktop view of the original website above the fold (Not by me)",
-        image:
-          "http://bregnballe.net/portfolio/simplefeast/simplefeastoriginal.png"
+        title: "Desktop view of the original website above the fold (Not by me)",
+        image: "http://bregnballe.net/portfolio/simplefeast/simplefeastoriginal.png"
       }
     ]
   },
@@ -483,29 +448,24 @@ export default [
     id: 14,
     url: "To-Do-List",
     title: "Drag and drop to-do list",
-    description:
-      "A TodoList I made with react, react beautiful dnd, styled components and typescript. The features as of now are add, delete, rearrange, edit and toggle complete.",
+    description: "A TodoList I made with react, react beautiful dnd, styled components and typescript. The features as of now are add, delete, rearrange, edit and toggle complete.",
     link: {
       title: "Git hub repository",
       url: "https://github.com/Bregnballe/TodoList"
     },
-    content: [
-      {
-        id: 1,
-        url: "To-Do-List",
-        title: "Showing the features",
-        image: "http://bregnballe.net/portfolio/todolist/todolist.gif"
-      }
-    ]
+    content: [{
+      id: 1,
+      url: "To-Do-List",
+      title: "Showing the features",
+      image: "http://bregnballe.net/portfolio/todolist/todolist.gif"
+    }]
   },
   {
     id: 15,
     url: "Tjek",
     title: "Tjek (etilbudsavis.dk)",
-    description:
-      "Tjek and etilbudsavis gathers great deals from hundreds of different catalogues on their website, so users easily can find current deals without spending unnecessary time flicking through them manually. Their brand was about to go through a massive rebranding and redesign, so as a part of a job application I showed them my take on how the website could look in the future.",
-    content: [
-      {
+    description: "Tjek and etilbudsavis gathers great deals from hundreds of different catalogues on their website, so users easily can find current deals without spending unnecessary time flicking through them manually. Their brand was about to go through a massive rebranding and redesign, so as a part of a job application I showed them my take on how the website could look in the future.",
+    content: [{
         id: 1,
         url: "Deal-Page",
         title: "A great deal on hot wings",
