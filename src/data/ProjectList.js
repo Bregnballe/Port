@@ -451,7 +451,7 @@ export default [{
     description: "A TodoList I made with react, react beautiful dnd, styled components and typescript. The features as of now are add, delete, rearrange, edit and toggle complete.",
     link: {
       title: "Git hub repository",
-      url: "httpss://github.com/Bregnballe/TodoList"
+      url: "https://github.com/Bregnballe/TodoList"
     },
     content: [{
       id: 1,
