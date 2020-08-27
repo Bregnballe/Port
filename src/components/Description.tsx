@@ -16,7 +16,9 @@ export const Description = ({ project }: ProjectProps) => {
       <h3> {project.title} </h3>
       <ParagraphStyled> {project.description} </ParagraphStyled>
       {project.link ? (
-        <LinkStyled href={project.link.url}>{project.link.title}</LinkStyled>
+        <LinkStyled href={project.link.url} target="_blank">
+          {project.link.title}
+        </LinkStyled>
       ) : null}
     </DescriptionStyled>
   );
