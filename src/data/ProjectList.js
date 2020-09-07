@@ -500,42 +500,44 @@ export default [{
         url: "iPhone-GIF",
         title: "Going through website on an iPhone,",
         image: "https://bregnballe.net/portfolio/tjek/tjekiphone.gif"
+      }
+    ]
+  },
+  {
+    id: 16,
+    url: "Likvido",
+    title: "Likvido",
+    description: "Likvido provides companies with an easy and user-friendly solution for charging invoices. When I applied for a job at their company, they asked me to redesign their invoice page and this is what I came up with.",
+    content: [{
+        id: 1,
+        url: "Invoices-Page",
+        title: "Overview of invoices",
+        image: "https://bregnballe.net/portfolio/likvido/invoices.png"
       },
       {
-        id: 16,
-        url: "Likvido",
-        title: "Likvido",
-        description: "Likvido provides companies with an easy and user-friendly solution for charging invoices. When I applied for a job at their company, they asked me to redesign their invoice page and this is what I came up with.",
-        content: [{
-            id: 1,
-            url: "Invoices-Page",
-            title: "Overview of invoices",
-            image: "https://bregnballe.net/portfolio/likvido/invoices.png"
-          },
-          {
-            id: 2,
-            url: "Invoices-Selection",
-            title: "Selection of invoices with bulk action",
-            image: "https://bregnballe.net/portfolio/likvido/invoicesselection.png"
-          },
-          {
-            id: 3,
-            url: "Invoice-Filters",
-            title: "Invoice Advanced Filters",
-            image: "https://bregnballe.net/portfolio/likvido/invoicesfilters.png"
-          },
-          {
-            id: 4,
-            url: "iPad-Pro-GIF",
-            title: "Going through invoices on an iPad Pro",
-            image: "https://bregnballe.net/portfolio/likvido/likvidoipadpro.gif"
-          },
-          {
-            id: 5,
-            url: "Invoices-iPhone",
-            title: "Design on phone",
-            image: "https://bregnballe.net/portfolio/likvido/invoicesiphone.gif"
-          }
-        ]
+        id: 2,
+        url: "Invoices-Selection",
+        title: "Selection of invoices with bulk action",
+        image: "https://bregnballe.net/portfolio/likvido/invoicesselection.png"
+      },
+      {
+        id: 3,
+        url: "Invoice-Filters",
+        title: "Invoice Advanced Filters",
+        image: "https://bregnballe.net/portfolio/likvido/invoicesfilters.png"
+      },
+      {
+        id: 4,
+        url: "iPad-Pro-GIF",
+        title: "Going through invoices on an iPad Pro",
+        image: "https://bregnballe.net/portfolio/likvido/likvidoipadpro.gif"
+      },
+      {
+        id: 5,
+        url: "Invoices-iPhone",
+        title: "Design on phone",
+        image: "https://bregnballe.net/portfolio/likvido/invoicesiphone.png"
       }
-    ];
+    ]
+  }
+];
