@@ -546,10 +546,41 @@ export default [{
     title: "KinoDK",
     description: "A friend of mine works at KinoDK and is currently working on their app. He asked me for some design advice, so I decided to show him and KinoDK how I would redesign their app.",
     content: [{
-      id: 1,
-      url: "KinoDK-GIF",
-      title: "Walkthrough of the app",
-      image: "https://bregnballe.net/portfolio/kinodk/kinodkmobile.png"
-    }]
+        id: 1,
+        url: "Movie-List",
+        title: "Overview of movies presented in a grid",
+        image: "https://bregnballe.net/portfolio/kinodk/movielist.png"
+      },
+      {
+        id: 2,
+        url: "Movie-Playing-Times",
+        title: "Overview of movies and their playing times",
+        image: "https://bregnballe.net/portfolio/kinodk/movieplayingtimes.png"
+      },
+      {
+        id: 3,
+        url: "Movie",
+        title: "Overview of a single movie",
+        image: "https://bregnballe.net/portfolio/kinodk/movie.png"
+      },
+      {
+        id: 4,
+        url: "Cinema-List",
+        title: "Overview of cinemas nearby",
+        image: "https://bregnballe.net/portfolio/kinodk/cinemalist.png"
+      },
+      {
+        id: 5,
+        url: "Cinema",
+        title: "Overview of a single cinema and the movies playing there",
+        image: "https://bregnballe.net/portfolio/kinodk/cinema.png"
+      },
+      {
+        id: 6,
+        url: "KinoDK-GIF",
+        title: "Walkthrough of the app",
+        image: "https://bregnballe.net/portfolio/kinodk/kinodkmobile.gif"
+      }
+    ]
   }
 ];
