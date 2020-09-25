@@ -539,5 +539,17 @@ export default [{
         image: "https://bregnballe.net/portfolio/likvido/invoicesiphone.png"
       }
     ]
+  },
+  {
+    id: 17,
+    url: "KinoDK",
+    title: "KinoDK",
+    description: "A friend of mine works at KinoDK and is currently working on their app. He asked me for some design advice, so I decided to show him and KinoDK how I would redesign their app.",
+    content: [{
+      id: 1,
+      url: "KinoDK-GIF",
+      title: "Walkthrough of the app",
+      image: "https://bregnballe.net/portfolio/kinodk/kinodkmobile.png"
+    }]
   }
 ];
