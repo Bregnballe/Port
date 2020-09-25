@@ -76,7 +76,7 @@ export default [{
     id: 3,
     url: "Color-Icons",
     title: "School Themed Color Icons",
-    description: "Even though the company I work at has students from age 5 and up as a part of their target group, for a long time we primarily used monochrome icons. I wanted to show how colored icons could bring life to our UI and better convey one part of our identity: Being playful.",
+    description: "Even though the company I used to work at has students from age 5 and up as a part of their target group, for a long time they primarily used monochrome icons. I wanted to show how colored icons could bring life to the UI and better convey one part of the company identity: Being playful.",
     content: [{
         id: 1,
         url: "Color-Icons-1",
@@ -374,6 +374,10 @@ export default [{
     url: "Clio-Design",
     title: "Clio Design",
     description: "Before leaving Clio, we were in the process of rethinking the entire platform. Here is a taste of the designs I was working on. My vision was a cohesive website where navigation and design would be consistent regardless of where the user was browsing. In addition an always accesible global menu and search bar was meant to help users easily find what they needed.",
+    link: {
+      title: "Try out one of prototypes",
+      url: "https://www.figma.com/proto/ZSFIRkhUtZe3GGDWIM5Ag5/Clio---Desktop-%2F-iPad-Pro?node-id=1%3A11&scaling=scale-down"
+    },
     content: [{
         id: 1,
         url: "Desktop-Overview",
@@ -418,6 +422,10 @@ export default [{
     url: "Simple-Feast",
     title: "Simple Feast",
     description: "Simple Feast makes organic, plant based dinners ready to serve in just 10 minutes. I applied for a job at Simple Feast and in the process made a redesign of their current website. I aimed to simplify the visual communication and make the entire design less 'boxy'.",
+    link: {
+      title: "Try out one of prototypes",
+      url: "https://www.figma.com/proto/9Okg5EwLDs0L2KqfrnntGF/simple-feast?node-id=104%3A229&scaling=scale-down"
+    },
     content: [{
         id: 1,
         url: "Desktop-View",
@@ -465,6 +473,10 @@ export default [{
     url: "Tjek",
     title: "Tjek (etilbudsavis.dk)",
     description: "Tjek and etilbudsavis gathers great deals from hundreds of different catalogues on their website, so users easily can find current deals without spending unnecessary time flicking through them manually. Their brand was about to go through a massive rebranding and redesign, so as a part of a job application I showed them my take on how the website could look in the future.",
+    link: {
+      title: "Try out one of the prototypes",
+      url: "https://www.figma.com/proto/HoOvYu8nkfJi2agwpYvwwh/Tjek?node-id=38%3A1425&scaling=scale-down"
+    },
     content: [{
         id: 1,
         url: "Deal-Page",
@@ -508,6 +520,10 @@ export default [{
     url: "Likvido",
     title: "Likvido",
     description: "Likvido provides companies with an easy and user-friendly solution for charging invoices. When I applied for a job at their company, they asked me to redesign their invoice page and this is what I came up with.",
+    link: {
+      title: "Try out one of the prototypes",
+      url: "https://www.figma.com/proto/oh9QKCmyIo7u5IhZn2nCQ8/Likvido?node-id=232%3A2996&scaling=scale-down"
+    },
     content: [{
         id: 1,
         url: "Invoices-Page",
@@ -544,7 +560,11 @@ export default [{
     id: 17,
     url: "KinoDK",
     title: "KinoDK",
-    description: "A friend of mine works at KinoDK and is currently working on their app. He asked me for some design advice, so I decided to show him and KinoDK how I would redesign their app.",
+    description: "A friend of mine works at KinoDK and is currently working on their app. He asked me for some design advice, so I decided to show him and KinoDK how I would redesign their app. ",
+    link: {
+      title: "Try out the prototype",
+      url: "https://www.figma.com/proto/hgsPdOBOlyZKeoAubSwgg7/Kino?node-id=88%3A94&scaling=scale-down"
+    },
     content: [{
         id: 1,
         url: "Movie-List",
