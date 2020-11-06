@@ -601,6 +601,22 @@ export default [{
         title: "Walkthrough of the app",
         image: "https://bregnballe.net/portfolio/kinodk/kinodkmobile.gif"
       }
-    ]
+  ]
+  },
+    {
+    id: 18,
+    url: "UI-Library",
+    title: "UI Library",
+    description: "In order to get deeper insight into the process of making a UI library, I decided to make on myself using the atomic design methodology and Storybook. Each component has been built using react, typescript and styled-components.",
+    link: {
+      title: "Try out the components in Storybook",
+      url: "https://master--5fa3c8114f04710022b2a297.chromatic.com"
+    },
+    content: [{
+        id: 1,
+        url: "UI-Library",
+        title: "Overview of the components build so far.",
+        image: "https://bregnballe.net/portfolio/uilibrary/uilibrary.png"
+      }]
   }
 ];
