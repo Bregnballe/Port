@@ -5,13 +5,23 @@ export const LinkStyled = styled(Link)`
   color: #3c3c3c;
   text-decoration: none;
 
-  &:focus,
   &:hover,
   &:visited,
   &:link,
   &:active {
     text-decoration: none;
   }
+
+
+  &:focus {
+    outline: none;
+    text-decoration: none;
+
+    img {
+      box-shadow: 0px 0px 0px 4px cadetblue;
+    }
+  }
+
 `;
 
 export const FigureStyled = styled.figure`

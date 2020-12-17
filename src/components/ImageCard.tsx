@@ -24,7 +24,7 @@ export const ImageCard = ({
     <li>
       <LinkStyled to={`/${projecturl}/${cardurl}`}>
         <FigureStyled>
-          <ImageStyled alt={title} src={image} />
+          <ImageStyled src={image} /> 
           <CaptionStyled>{title}</CaptionStyled>
         </FigureStyled>
       </LinkStyled>

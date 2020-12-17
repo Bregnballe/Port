@@ -22,12 +22,13 @@ export const ProjectCard = ({
 }: ProjectCardProps) => {
   return (
     <li>
-      <LinkStyled to={`/${projecturl}/${cardurl}`}>
-        <FigureStyled>
-          <ImageStyled alt={title} src={image} />
-          <CaptionStyled>{title}</CaptionStyled>
+      <LinkStyled to={`/${projecturl}/${cardurl}`} >
+        <FigureStyled role="figure" aria-labelledby={title}>
+          <ImageStyled src={image} />
+          <CaptionStyled id={title}>{title}</CaptionStyled>
         </FigureStyled>
       </LinkStyled>
     </li>
   );
 };
+

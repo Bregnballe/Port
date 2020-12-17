@@ -7,6 +7,8 @@ export const LinkStyled = styled(Link)`
   justify-content: left;
   color: #3c3c3c;
   text-decoration: none;
+  padding: 4px;
+  border-radius: 4px;
 
   &:focus,
   &:hover,
@@ -14,6 +16,12 @@ export const LinkStyled = styled(Link)`
   &:link,
   &:active {
     text-decoration: none;
+  }
+
+  &:focus {
+    outline: 0;
+    text-decoration: none;
+    box-shadow: 0px 0px 0px 4px cadetblue;
   }
 `;
 

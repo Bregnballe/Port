@@ -7,6 +7,7 @@ export const ContainerStyled = styled.div`
   justify-content: center;
   flex-direction: column;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
 `;
 
 export const FigureStyled = styled.figure`
