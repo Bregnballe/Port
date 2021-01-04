@@ -7,31 +7,31 @@ export default [{
         id: 1,
         url: "Flamingo",
         title: "Flamingo",
-        image: "https://bregnballe.net/portfolio/animals/flamingolarge.jpg"
+        image: "https://bregnballe.net/portfolio/animals/flamingolarge.webp"
       },
       {
         id: 2,
         url: "Giraffe",
         title: "Giraffe",
-        image: "https://bregnballe.net/portfolio/animals/giraffelarge.jpg"
+        image: "https://bregnballe.net/portfolio/animals/giraffelarge.webp"
       },
       {
         id: 3,
         url: "Monkey",
         title: "Monkey",
-        image: "https://bregnballe.net/portfolio/animals/monkeylarge.jpg"
+        image: "https://bregnballe.net/portfolio/animals/monkeylarge.webp"
       },
       {
         id: 4,
         url: "Lion",
         title: "Lion",
-        image: "https://bregnballe.net/portfolio/animals/lionlarge.jpg"
+        image: "https://bregnballe.net/portfolio/animals/lionlarge.webp"
       },
       {
         id: 5,
         url: "Gorilla",
         title: "Gorilla",
-        image: "https://bregnballe.net/portfolio/animals/gorillalarge.jpg"
+        image: "https://bregnballe.net/portfolio/animals/gorillalarge.webp"
       }
     ]
   },
@@ -44,31 +44,31 @@ export default [{
         id: 1,
         url: "MilkyWay-Logomark",
         title: "MilkyWay logomark",
-        image: "https://bregnballe.net/portfolio/milkyway/milkywaymark.jpg"
+        image: "https://bregnballe.net/portfolio/milkyway/milkywaymark.webp"
       },
       {
         id: 2,
         url: "MilkyWay-Full-Logo",
         title: "MilkyWay full logo",
-        image: "https://bregnballe.net/portfolio/milkyway/mwfulllogo.jpg"
+        image: "https://bregnballe.net/portfolio/milkyway/mwfulllogo.webp"
       },
       {
         id: 3,
         url: "Logo-Mockup",
         title: "Mockup",
-        image: "https://bregnballe.net/portfolio/milkyway/mwphotolarge.jpg"
+        image: "https://bregnballe.net/portfolio/milkyway/mwphotolarge.webp"
       },
       {
         id: 4,
         url: "Logo-Cutout-Idea",
         title: "Logo cutout idea",
-        image: "https://bregnballe.net/portfolio/milkyway/mwspacelarge.jpg"
+        image: "https://bregnballe.net/portfolio/milkyway/mwspacelarge.webp"
       },
       {
         id: 5,
         url: "Horisontal-Search",
         title: "Horisontal search",
-        image: "https://bregnballe.net/portfolio/milkyway/mwsearchlarge.jpg"
+        image: "https://bregnballe.net/portfolio/milkyway/mwsearchlarge.webp"
       }
     ]
   },
@@ -81,13 +81,13 @@ export default [{
         id: 1,
         url: "Color-Icons-1",
         title: "Color Icons",
-        image: "https://bregnballe.net/portfolio/coloricons/coloricons.png"
+        image: "https://bregnballe.net/portfolio/coloricons/coloricons.webp"
       },
       {
         id: 2,
         url: "Color-Icons-2",
         title: "16X16px icon grid close up",
-        image: "https://bregnballe.net/portfolio/coloricons/icongrid.png"
+        image: "https://bregnballe.net/portfolio/coloricons/icongrid.webp"
       }
     ]
   },
@@ -100,37 +100,37 @@ export default [{
         id: 1,
         url: "Lagkagehuset-Logo",
         title: "Lagkagehuset logo",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/lagkagehuset.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/lagkagehuset.webp"
       },
       {
         id: 2,
         url: "Logo-Dimensions",
         title: "Logo dimensions",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/logodimensions.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/logodimensions.webp"
       },
       {
         id: 3,
         url: "Bread-Poster",
         title: "Bread poster",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhreklamelarge.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhreklamelarge.webp"
       },
       {
         id: 4,
         url: "Website-Product-Line-Bread",
         title: "Website: Product line - bread ",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhbroedlarge.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhbroedlarge.webp"
       },
       {
         id: 5,
         url: "Website-Product-Line-Cake",
         title: "Website: Product line - cake ",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhsortimentlarge.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhsortimentlarge.webp"
       },
       {
         id: 6,
         url: "Website-Front-Page",
         title: "Website: Front page ",
-        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhforsidelarge.jpg"
+        image: "https://bregnballe.net/portfolio/lagkagehuset/lkhforsidelarge.webp"
       }
     ]
   },
@@ -143,25 +143,25 @@ export default [{
         id: 1,
         url: "Working-Copy",
         title: "Working Copy",
-        image: "https://bregnballe.net/portfolio/workingcopy/workingcopy.jpg"
+        image: "https://bregnballe.net/portfolio/workingcopy/workingcopy.webp"
       },
       {
         id: 2,
         url: "List-of-Commits",
         title: "List of commits",
-        image: "https://bregnballe.net/portfolio/workingcopy/Table View 1.png"
+        image: "https://bregnballe.net/portfolio/workingcopy/Table View 1.webp"
       },
       {
         id: 3,
         url: "List-of-Commits-More-Detail",
         title: "List of commits - more detail",
-        image: "https://bregnballe.net/portfolio/workingcopy/Table View 2.png"
+        image: "https://bregnballe.net/portfolio/workingcopy/Table View 2.webp"
       },
       {
         id: 4,
         url: "List-of-Commits-Maximum-Detail",
         title: "List of commits - maxium detail",
-        image: "https://bregnballe.net/portfolio/workingcopy/Table View 3.png"
+        image: "https://bregnballe.net/portfolio/workingcopy/Table View 3.webp"
       }
     ]
   },
@@ -174,49 +174,49 @@ export default [{
         id: 1,
         url: "Nicola-Tesla-Mascot-Logo",
         title: "Nicola Tesla Mascot Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla.webp"
       },
       {
         id: 2,
         url: "Tesla-Negative-Space-Lightning-Logo",
         title: "Tesla Negative Space Lightning",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla2.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla2.webp"
       },
       {
         id: 3,
         url: "Team-Spirit-Logo",
         title: "Team Spirit Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla3.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla3.webp"
       },
       {
         id: 4,
         url: "Two-Tees-Lightning-Logo",
         title: "Two Tees Lightning Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla4.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla4.webp"
       },
       {
         id: 5,
         url: "Tesla-Nose-Moustache-Logo",
         title: "Tesla Nose Moustache Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla5.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla5.webp"
       },
       {
         id: 6,
         url: "Tesla-Nose-Moustache-Logo-2",
         title: "Tesla Nose Moustache Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla6.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla6.webp"
       },
       {
         id: 7,
         url: "Lightning-Tesla-Logo",
         title: "Lightning Tesla Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla7.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla7.webp"
       },
       {
         id: 8,
         url: "HTML-Tag-Lightning-Logo",
         title: "HTML-Tag Lightning Logo",
-        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla8.png"
+        image: "https://bregnballe.net/portfolio/teamtesla/teamtesla8.webp"
       }
     ]
   },
@@ -229,25 +229,25 @@ export default [{
         id: 1,
         url: "Lean-UX",
         title: "Lean UX",
-        image: "https://bregnballe.net/portfolio/leanux/leanux.png"
+        image: "https://bregnballe.net/portfolio/leanux/leanux.webp"
       },
       {
         id: 2,
         url: "Lean-UX-Poster",
         title: "Lean UX Poster",
-        image: "https://bregnballe.net/portfolio/leanux/leanuxposter.png"
+        image: "https://bregnballe.net/portfolio/leanux/leanuxposter.webp"
       },
       {
         id: 3,
         url: "Permission-To-Fail",
         title: "Permission to Fail",
-        image: "https://bregnballe.net/portfolio/leanux/permissiontofail.png"
+        image: "https://bregnballe.net/portfolio/leanux/permissiontofail.webp"
       },
       {
         id: 4,
         url: "Outcomes-Not-Outputs",
         title: "Outcomes, not outputs",
-        image: "https://bregnballe.net/portfolio/leanux/outcomes.png"
+        image: "https://bregnballe.net/portfolio/leanux/outcomes.webp"
       }
     ]
   },
@@ -260,19 +260,19 @@ export default [{
         id: 1,
         url: "Library-List-View",
         title: "Library: List view",
-        image: "https://bregnballe.net/portfolio/library/library.jpg"
+        image: "https://bregnballe.net/portfolio/library/library.webp"
       },
       {
         id: 2,
         url: "Library-Gallery-View",
         title: "Library: Gallery View",
-        image: "https://bregnballe.net/portfolio/library/librarygallery.jpg"
+        image: "https://bregnballe.net/portfolio/library/librarygallery.webp"
       },
       {
         id: 3,
         url: "Original-Library",
         title: "The library before the redesign",
-        image: "https://bregnballe.net/portfolio/library/libraryoriginal.png"
+        image: "https://bregnballe.net/portfolio/library/libraryoriginal.webp"
       }
     ]
   },
@@ -285,7 +285,7 @@ export default [{
         id: 1,
         url: "Sidebar",
         title: "Sidebar",
-        image: "https://bregnballe.net/portfolio/sidebar/sidebar.png"
+        image: "https://bregnballe.net/portfolio/sidebar/sidebar.webp"
       },
       {
         id: 2,
@@ -297,7 +297,7 @@ export default [{
         id: 3,
         url: "Old-Sidebar",
         title: "Sidebar before design changes",
-        image: "https://bregnballe.net/portfolio/sidebar/sidebarold.png"
+        image: "https://bregnballe.net/portfolio/sidebar/sidebarold.webp"
       }
     ]
   },
@@ -310,43 +310,43 @@ export default [{
         id: 1,
         url: "3D-Teddy-Bear",
         title: "3D Teddy Bear",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbear.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbear.webp"
       },
       {
         id: 2,
         url: "Bear-Drawing-Front",
         title: "Drawing of the front view of the teddy bear",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearfrontlarge.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearfrontlarge.webp"
       },
       {
         id: 3,
         url: "Bear-Drawing-Side",
         title: "Drawing of the side view of the teddy bear",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearsidelarge.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearsidelarge.webp"
       },
       {
         id: 4,
         url: "Bear-Drawing-Back",
         title: "Drawing of the back view of the teddy bear",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearbacklarge.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearbacklarge.webp"
       },
       {
         id: 5,
         url: "Side-View-Render",
         title: "Side view render",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender2large.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender2large.webp"
       },
       {
         id: 6,
         url: "Back-View-Render",
         title: "Back view render",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender3large.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender3large.webp"
       },
       {
         id: 7,
         url: "Face-Render",
         title: "Closeup of face",
-        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender4large.jpg"
+        image: "https://bregnballe.net/portfolio/3dbear/3dbearrender4large.webp"
       }
     ]
   },
@@ -359,13 +359,13 @@ export default [{
         id: 1,
         url: "Activity-Icons",
         title: "Activity Icons",
-        image: "https://bregnballe.net/portfolio/activityicons/activityicons.png"
+        image: "https://bregnballe.net/portfolio/activityicons/activityicons.webp"
       },
       {
         id: 2,
         url: "Icon-Grid",
         title: "24x24px icon grid",
-        image: "https://bregnballe.net/portfolio/activityicons/activityicongrid.png"
+        image: "https://bregnballe.net/portfolio/activityicons/activityicongrid.webp"
       }
     ]
   },
@@ -382,7 +382,7 @@ export default [{
         id: 1,
         url: "Desktop-Overview",
         title: "Desktop overview of materials for the subject 'dansk'",
-        image: "https://bregnballe.net/portfolio/clio/cliodanskdesktop.png"
+        image: "https://bregnballe.net/portfolio/clio/cliodanskdesktop.webp"
       },
       {
         id: 2,
@@ -400,20 +400,20 @@ export default [{
         id: 4,
         url: "Overview-of-Students",
         title: "Overview of students and teachers in 7.A, Dansk",
-        image: "https://bregnballe.net/portfolio/clio/cliopeople.jpg"
+        image: "https://bregnballe.net/portfolio/clio/cliopeople.webp"
       },
 
       {
         id: 5,
         url: "Search-Results",
         title: "Search results for 'Jul' in the the danish activities library",
-        image: "https://bregnballe.net/portfolio/clio/cliomaterials.jpg"
+        image: "https://bregnballe.net/portfolio/clio/cliomaterials.webp"
       },
       {
         id: 6,
         url: "Original-Design",
         title: "Original design of a Clio portal (not by me)",
-        image: "https://bregnballe.net/portfolio/clio/cliodanskold.jpg"
+        image: "https://bregnballe.net/portfolio/clio/cliodanskold.webp"
       }
     ]
   },
@@ -430,7 +430,7 @@ export default [{
         id: 1,
         url: "Desktop-View",
         title: "Desktop view of the website above the fold",
-        image: "https://bregnballe.net/portfolio/simplefeast/simplefeast.png"
+        image: "https://bregnballe.net/portfolio/simplefeast/simplefeast.webp"
       },
       {
         id: 2,
@@ -448,7 +448,7 @@ export default [{
         id: 4,
         url: "Original-Design",
         title: "Desktop view of the original website above the fold (Not by me)",
-        image: "https://bregnballe.net/portfolio/simplefeast/simplefeastoriginal.png"
+        image: "https://bregnballe.net/portfolio/simplefeast/simplefeastoriginal.webp"
       }
     ]
   },
@@ -481,25 +481,25 @@ export default [{
         id: 1,
         url: "Deal-Page",
         title: "A great deal on hot wings",
-        image: "https://bregnballe.net/portfolio/tjek/vare.png"
+        image: "https://bregnballe.net/portfolio/tjek/vare.webp"
       },
       {
         id: 2,
         url: "Front-Page",
         title: "Front page",
-        image: "https://bregnballe.net/portfolio/tjek/forside.png"
+        image: "https://bregnballe.net/portfolio/tjek/forside.webp"
       },
       {
         id: 3,
         url: "Deals",
         title: "Deals",
-        image: "https://bregnballe.net/portfolio/tjek/tilbud.png"
+        image: "https://bregnballe.net/portfolio/tjek/tilbud.webp"
       },
       {
         id: 4,
         url: "Catalogues",
         title: "Catalogues",
-        image: "https://bregnballe.net/portfolio/tjek/tilbudsaviser.png"
+        image: "https://bregnballe.net/portfolio/tjek/tilbudsaviser.webp"
       },
       {
         id: 5,
@@ -528,19 +528,19 @@ export default [{
         id: 1,
         url: "Invoices-Page",
         title: "Overview of invoices",
-        image: "https://bregnballe.net/portfolio/likvido/invoices.png"
+        image: "https://bregnballe.net/portfolio/likvido/invoices.webp"
       },
       {
         id: 2,
         url: "Invoices-Selection",
         title: "Selection of invoices with bulk action",
-        image: "https://bregnballe.net/portfolio/likvido/invoicesselection.png"
+        image: "https://bregnballe.net/portfolio/likvido/invoicesselection.webp"
       },
       {
         id: 3,
         url: "Invoice-Filters",
         title: "Invoice Advanced Filters",
-        image: "https://bregnballe.net/portfolio/likvido/invoicesfilters.png"
+        image: "https://bregnballe.net/portfolio/likvido/invoicesfilters.webp"
       },
       {
         id: 4,
@@ -552,7 +552,7 @@ export default [{
         id: 5,
         url: "Invoices-iPhone",
         title: "Design on phone",
-        image: "https://bregnballe.net/portfolio/likvido/invoicesiphone.png"
+        image: "https://bregnballe.net/portfolio/likvido/invoicesiphone.webp"
       }
     ]
   },
@@ -569,31 +569,31 @@ export default [{
         id: 1,
         url: "Movie-List",
         title: "Overview of movies presented in a grid",
-        image: "https://bregnballe.net/portfolio/kinodk/movielist.png"
+        image: "https://bregnballe.net/portfolio/kinodk/movielist.webp"
       },
       {
         id: 2,
         url: "Movie-Playing-Times",
         title: "Overview of movies and their playing times",
-        image: "https://bregnballe.net/portfolio/kinodk/movieplayingtimes.png"
+        image: "https://bregnballe.net/portfolio/kinodk/movieplayingtimes.webp"
       },
       {
         id: 3,
         url: "Movie",
         title: "Overview of a single movie",
-        image: "https://bregnballe.net/portfolio/kinodk/movie.png"
+        image: "https://bregnballe.net/portfolio/kinodk/movie.webp"
       },
       {
         id: 4,
         url: "Cinema-List",
         title: "Overview of cinemas nearby",
-        image: "https://bregnballe.net/portfolio/kinodk/cinemalist.png"
+        image: "https://bregnballe.net/portfolio/kinodk/cinemalist.webp"
       },
       {
         id: 5,
         url: "Cinema",
         title: "Overview of a single cinema and the movies playing there",
-        image: "https://bregnballe.net/portfolio/kinodk/cinema.png"
+        image: "https://bregnballe.net/portfolio/kinodk/cinema.webp"
       },
       {
         id: 6,
@@ -616,7 +616,7 @@ export default [{
         id: 1,
         url: "UI-Library",
         title: "Overview of the components build so far.",
-        image: "https://bregnballe.net/portfolio/uilibrary/uilibrary.png"
+        image: "https://bregnballe.net/portfolio/uilibrary/uilibrary.webp"
       }]
   }
 ];
