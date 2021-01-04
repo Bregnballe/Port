@@ -17,7 +17,7 @@ export const ImageList = ({ project }: ImageListProps) => {
         title={card.title}
         cardurl={card.url}
         projecturl={project.url}
-        image={card.image}
+        image={card.images.small}
       />
     );
   });

@@ -10,7 +10,10 @@ import {
 interface ImageLargeProps {
   card: {
     title: string;
-    image: string;
+    images: {
+      small: string;
+      large: string;
+    }
   };
 }
 
@@ -18,7 +21,7 @@ export const ImageLarge = ({ card }: ImageLargeProps) => {
   return (
     <ContainerStyled>
       <FigureStyled>
-        <ImageStyled alt={card.title} src={card.image} />
+        <ImageStyled alt={card.title} src={card.images.large} />
         <CaptionStyled>{card.title}</CaptionStyled>
       </FigureStyled>
     </ContainerStyled>

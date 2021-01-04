@@ -2,7 +2,10 @@ export interface IContent {
   id: number;
   url: string;
   title: string;
-  image: string;
+  images: {
+    small: string;
+    large: string;
+  }
 }
 
 export interface ILink {

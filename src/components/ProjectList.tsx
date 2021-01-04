@@ -20,7 +20,7 @@ export const ProjectList = ({ projectList }: ProjectListProps) => {
         title={project.title}
         projecturl={project.url}
         cardurl={project.content[0].url}
-        image={project.content[0].image}
+        image={project.content[0].images.small}
       />
     );
   });
