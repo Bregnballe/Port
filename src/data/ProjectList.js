@@ -513,7 +513,7 @@ export default [{
         url: "Icon-Grid",
         title: "24x24px icon grid",
         images: {
-          small: "https://bregnballe.net/portfolio/activityicons/activityicongrid - small .webp",
+          small: "https://bregnballe.net/portfolio/activityicons/activityicongrid - small.webp",
           large: "https://bregnballe.net/portfolio/activityicons/activityicongrid - large.webp",
         },
       }
