@@ -23,9 +23,9 @@ export const ProjectCard = ({
   return (
     <li>
       <LinkStyled to={`/${projecturl}/${cardurl}`} >
-        <FigureStyled role="figure" aria-labelledby={title}>
-          <ImageStyled src={image} />
-          <CaptionStyled id={title}>{title}</CaptionStyled>
+        <FigureStyled role="figure" >
+          <ImageStyled src={image} alt={title} />
+          <CaptionStyled >{title}</CaptionStyled>
         </FigureStyled>
       </LinkStyled>
     </li>

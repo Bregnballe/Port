@@ -23,8 +23,8 @@ export const ImageCard = ({
   return (
     <li>
       <LinkStyled to={`/${projecturl}/${cardurl}`}>
-        <FigureStyled>
-          <ImageStyled src={image} /> 
+        <FigureStyled role="figure" >
+          <ImageStyled src={image} alt={title} /> 
           <CaptionStyled>{title}</CaptionStyled>
         </FigureStyled>
       </LinkStyled>
